@@ -18,6 +18,11 @@ h6 {
   margin-bottom: 6px;
 }
 
+h1 {
+  font-size: 79px;
+  font-family: sans-serif;
+}
+
 section {
   padding: 3rem 2.5rem;
 }
