@@ -8,3 +8,25 @@ h6,
 p {
   margin: 0;
 }
+
+p,
+h6 {
+  font-size: 12px;
+}
+
+h6 {
+  margin-bottom: 6px;
+}
+
+section {
+  padding: 3rem 2.5rem;
+}
+
+.first-container {
+  display: flex;
+  gap: 1.7rem;
+}
+
+img {
+  width: 100%;
+}
