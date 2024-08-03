@@ -36,8 +36,13 @@ img {
   width: 100%;
 }
 
-.second-container {
+.p-container {
+  display: flex;
+  gap: 2rem;
+}
+
+/* .second-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr 1fr;
-}
+} */
