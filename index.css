@@ -76,6 +76,7 @@ h1 {
 @media only screen and (min-width: 900px) {
   section {
     padding: 3.5rem 4rem;
+    gap: 2rem;
   }
 
   .second-container {
@@ -85,5 +86,9 @@ h1 {
       "sky sea sea"
       "sky para para"
       "sky star street";
+  }
+
+  .p-container {
+    gap: 2.3rem;
   }
 }
