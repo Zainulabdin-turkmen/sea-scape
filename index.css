@@ -91,4 +91,8 @@ h1 {
   .p-container {
     gap: 2.3rem;
   }
+
+  h1 {
+    margin-left: 2rem;
+  }
 }
