@@ -75,8 +75,7 @@ h1 {
 
 @media only screen and (min-width: 900px) {
   section {
-    padding: 3.5rem 4rem;
-    gap: 2rem;
+    padding: 0 4rem;
   }
 
   .second-container {
@@ -90,9 +89,40 @@ h1 {
 
   .p-container {
     gap: 2.3rem;
+    margin-left: 2rem;
   }
 
   h1 {
     margin-left: 2rem;
+  }
+
+  .first-h3-p,
+  .second-h3-p,
+  .third-h3-p {
+    border-left: 1px solid #ccab99;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 4.2rem;
+    flex: 1;
+    padding-bottom: 2rem;
+  }
+  .first-h3-p {
+    flex: 0.99;
+  }
+
+  .first-container {
+    gap: 0;
+  }
+
+  .third-container {
+    height: 100px;
+    display: flex;
+  }
+  .third-container div {
+    flex: 1;
+    border-left: 1px solid #ccab99;
+  }
+  .zain {
+    border-left: 1px solid #edc3ab !important;
   }
 }
