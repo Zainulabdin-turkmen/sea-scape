@@ -72,4 +72,7 @@ h1 {
 }
 
 @media only screen and (min-width: 900px) {
+  section {
+    padding: 3.5rem 4rem;
+  }
 }
