@@ -28,7 +28,7 @@ h1 {
 section {
   padding: 3rem 2.5rem;
   display: flex;
-  /* flex-direction: column; */
+  flex-direction: column;
 }
 
 .first-container {
