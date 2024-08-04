@@ -75,4 +75,13 @@ h1 {
   section {
     padding: 3.5rem 4rem;
   }
+
+  .second-container {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 201px;
+    grid-template-areas:
+      "sky sea sea"
+      "sky para para"
+      "sky star street";
+  }
 }
