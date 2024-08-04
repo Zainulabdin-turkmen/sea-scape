@@ -70,3 +70,6 @@ h1 {
 .p-container div {
   flex: 1;
 }
+
+@media only screen and (min-width: 900px) {
+}
